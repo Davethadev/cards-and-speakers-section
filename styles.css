@@ -10,6 +10,7 @@ body {
     background-color: #122B47;
     font-family: 'Open Sans', sans-serif;
     padding: 0.5rem;
+    text-align: justify;
 }
 
 .container {
@@ -48,6 +49,12 @@ body {
     background-color: #E9EFFF;
     height: 74%;
     border-radius: 10px;
+}
+
+.top-section p,
+.bottom-section p,
+.text p {
+    padding: 0.2rem 0;
 }
 
 .second-column {
